@@ -1,5 +1,5 @@
 # notes ----
-# forecasting using timeseries
+# forecasting using timeseries for sockeye in Karluk Alaska
 # sarah.power@alaska.gov
 # 2019
 
