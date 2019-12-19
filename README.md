@@ -1,2 +1,2 @@
 # Karluk_fx
-This is the Karluk sockeyeforecast
+This code investigates timeseries models for the forecast of sockeye in Karluk Alaska.
