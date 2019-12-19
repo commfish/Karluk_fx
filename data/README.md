@@ -1,0 +1,3 @@
+# Karluk_fx
+This code investigates timeseries models for the forecast of sockeye in Karluk Alaska.
+Contact sarah.power@alaska.gov for the data.
